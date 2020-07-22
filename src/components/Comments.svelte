@@ -38,10 +38,10 @@
     justify-content: space-between;
     align-items: center;
   }
-  .Comments-content {
+  .Comments-container {
     padding: 0 1em 0.5em 1em;
   }
-  .Comments-users {
+  .comments-users {
     margin: 0 0 0.5em 0;
     display: flex;
   }
@@ -62,9 +62,6 @@
     font-size: 12px;
     outline: none;
     cursor: pointer;
-  }
-  label {
-    display: none;
   }
 </style>
 
